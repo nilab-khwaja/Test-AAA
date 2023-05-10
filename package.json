@@ -1,0 +1,23 @@
+{
+  "name": "test-aaa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilab-khwaja/Test-AAA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilab-khwaja/Test-AAA/issues"
+  },
+  "homepage": "https://github.com/nilab-khwaja/Test-AAA#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
